@@ -1,0 +1,56 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  fill-opacity: initial;
+}
+
+body{
+  background-image: url(lap.jfif);
+  background-size: 100%;
+  font-family:sans-serif;
+  
+ 
+}
+.navbar{
+
+    background-color: #e74c3c;
+    overflow: auto;
+    height: 50px;
+    height: 47px;
+    border-top: 1px solid #fff;
+  }
+ 
+.navbar ul li{
+  float: right;
+  font-size: 20px;
+  margin-right: 20px;
+  list-style-type: none;
+  text-align: center;
+  display: flex;
+ 
+ }
+.navbar ul li a{
+  text-decoration: none;
+  color: white;
+   padding: 10px;
+  
+ 
+}
+.navbar ul li a:hover{
+  border: 1px solid #fff;
+  border-radius: 8px;
+  size: 1px;
+  
+}
+.main{
+  background-color: rgba(0, 0, 0, 0.7);
+  width: 70%;
+  height: 400px;
+  margin-top: 60px;
+  margin-left: 14%;
+  color:#ffff;
+  text-align: center;
+  font-size: 30px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+

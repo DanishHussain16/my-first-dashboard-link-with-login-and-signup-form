@@ -1,0 +1,74 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family:Calibri;
+} 
+body{
+    
+    
+}
+.nav h1{
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 30px;
+    border: 5px solid whitesmoke;
+    text-align: center;
+    background-color: whitesmoke;  
+    margin-bottom: 40px;
+    color: rgb(7, 150, 7);  
+   
+}
+.login-form{
+    font-size: 20px;
+    margin-left: 30px;
+
+   
+}
+.login-form input{
+    width: 200px;
+    height: 30px;
+    background-color: whitesmoke;
+    font-size: 20px;
+    margin-bottom: 20px;
+    border-radius: 3px;
+    border: 2px solid rgb(219, 215, 215);
+}
+.s-button button{
+    width: 150px;
+    height: 60px;
+    margin-top: 30px;
+    background-color: rgb(7, 150, 7);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    font-size: 30px;
+    margin-left: 30px;
+    margin-bottom: 50px;
+    
+    
+   
+}
+.s-button button:hover{
+   background-color:rgb(46, 216, 46);
+}
+.r-button{
+    font-size: 20px;
+    margin-left:30px ;
+}
+.r-button {
+    
+}
+.date{
+    margin-left: 30px;
+    font-size: 20px;
+}
+.date input{
+    width: 200px;
+    height: 30px;
+    border: 2px solid rgb(219, 215, 215);
+    background-color: whitesmoke;
+    font-size: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
